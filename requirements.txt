@@ -1,0 +1,6 @@
+twint
+tqdm
+gpt-2-simple
+tensorflow-gpu==1.15.0
+pandas
+tweepy 
